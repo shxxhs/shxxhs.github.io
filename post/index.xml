@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on shxxhs的个人博客</title>
+        <link>https://shxxhs.github.io/post/</link>
+        <description>Recent content in Posts on shxxhs的个人博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>shxxhs</copyright>
+        <lastBuildDate>Thu, 05 Sep 2024 21:00:18 +0800</lastBuildDate><atom:link href="https://shxxhs.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>
